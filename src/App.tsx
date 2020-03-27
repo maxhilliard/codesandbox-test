@@ -21,8 +21,7 @@ export default function App() {
         <Box bgcolor="secondary.main" p={2}>
           <Box p={2} bgcolor="secondary.light">
             <Typography variant="subtitle1" color="textSecondary">
-              We only work with a select group of artists, so your submission
-              matters.
+              Changed in codesandbox, test 1
             </Typography>
             <FormControl fullWidth>
               <FormLabel htmlFor="my-input">First name</FormLabel>
